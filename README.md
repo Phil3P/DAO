@@ -1,2 +1,48 @@
-# Page
+# Guide de la DAO RealToken pour les détenteurs de REG
 
+## Préambule
+
+Le document vise a la fois les personnes qui sont experimenter avec les DAO et les personnes qui sont novices, nous avons rédiger le document avec une approche multi niveau pour que tout le monde puisse y trouver des informations utiles.
+Les novices veuvent se contanter des partie a 1 étoiles qui vulgarise et simplifie les concepts expliquer plus en détail dans les partie a 3 étoiles.
+Pour les personnes disposant d'une base dans la DeFi et DAO, la partie a 1 et 2 étoiles leur permettront de mieux comprendre le contexte et les mécanismes globaux.
+Les personnes experimenter avec les DAO peuvent sauter les partie a 1 étoiles et les partie a 2 étoiles et se concentrer sur la partie a 3 étoiles.
+
+1. **Introduction aux DAO**
+    1. Qu'est-ce qu'une DAO ?
+    2. Pourquoi les DAO sont importantes dans l'écosystème blockchain
+    3. Avantages et défis des DAO
+
+2. **La DAO RealToken : Vue d'ensemble**
+    1. Objectifs et vision de la DAO RealToken
+    2. Structure et fonctionnement général
+    3. Rôle des détenteurs de REG dans l'écosystème
+
+3. **Phase 1 : Mise en place et objectifs**
+    1. Explication de la version simplifiée
+    2. Processus de mise en place
+    3. Objectifs à court et moyen terme
+    4. Comment participer à cette phase initiale
+
+4. **Fonctionnement technique de la DAO**
+    1. Smart Contracts principaux
+        1. Contrat de gouvernance
+        2. Contrat de vote
+        3. Contrat d'incitation
+    2. Mécanismes de vote et de proposition
+    3. Système d'incitation et de récompense
+
+5. **Guide pratique pour les détenteurs de REG**
+    1. Comment participer aux votes
+    2. Création et soumission de propositions
+    3. Réclamation des récompenses
+    4. Bonnes pratiques et conseils
+
+6. **Perspectives d'avenir**
+    1. Évolutions prévues de la DAO
+    2. Opportunités pour la communauté
+    3. Comment contribuer au développement de la DAO
+
+7. **Ressources et support**
+    1. Documentation technique
+    2. Canaux de communication
+    3. FAQ
